@@ -1,9 +1,7 @@
 # Hi there 👋, Sebas here. 
-<img align="right" width=300px alt="Unicorn" src="https://media1.tenor.com/m/K3s0l9Zu9y8AAAAd/konata-izumi-lacky-star.gif" />
+<img align="right" width=350px alt="Unicorn" src="https://media1.tenor.com/m/K3s0l9Zu9y8AAAAd/konata-izumi-lacky-star.gif" />
 
 <h3><img src="https://media.tenor.com/YyL6SS1yrcUAAAAi/coelho-gato.gif" width="50px">&nbsp; About me</h3> 
-
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 ```java
 import name = tian.Sebas;
