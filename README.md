@@ -48,5 +48,5 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-####
+#### 🌐 Social Media
 <a href="https://www.linkedin.com/in/sebastian-gonzalez-rodriguez-a335aa1a0/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
