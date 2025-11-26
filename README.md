@@ -4,7 +4,7 @@
 <h3><img src="https://media.tenor.com/YyL6SS1yrcUAAAAi/coelho-gato.gif" width="50px">&nbsp; About me</h3> 
 
 ```java
-import name = tian.Sebas;
+import name.tian.Sebas;
 
 /*
 * I'm a Software Analysis and Development student. I'm learning Java, Python, JavaScript,
