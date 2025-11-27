@@ -1,7 +1,7 @@
 # Hi there 👋, Sebas here. 
 <img width=350px alt="Unicorn" src="https://media1.tenor.com/m/K3s0l9Zu9y8AAAAd/konata-izumi-lacky-star.gif" />
 
-<h3><img src="https://media.tenor.com/YyL6SS1yrcUAAAAi/coelho-gato.gif" width="50px">&nbsp; About me</h3> 
+<h3 align="right"><img src="https://media.tenor.com/YyL6SS1yrcUAAAAi/coelho-gato.gif" width="50px">&nbsp; About me</h3> 
 
 ```java
 import name.tian.Sebas;
